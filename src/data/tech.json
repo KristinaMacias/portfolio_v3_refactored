@@ -1,0 +1,69 @@
+{
+    "content": [
+        {
+            "id": 1,
+            "name": "JavaScript",
+            "category": "Front-End"
+        },
+        {
+            "id": 2,
+            "name": "React.js",
+            "category": "Front-End,"
+        },
+        {
+            "id": 3,
+            "name": "Node.js",
+            "category": "Back-End, "
+        },
+        {
+            "id": 4,
+            "name": "Express.js",
+            "category": "Back-End"
+        },
+        {
+            "id": 5,
+            "name": "PostgreSQL",
+            "category": "Back-End"
+        },
+        {
+            "id": 6,
+            "name": "HTML",
+            "category": "Front-End"
+        },
+        {
+            "id": 7,
+            "name": "CSS",
+            "category": "Front-End"
+        },
+        {
+            "id": 8,
+            "name": "Bootstrap",
+            "category": "Front-End"
+        },
+        {
+            "id": 9,
+            "name": "Git",
+            "category": "Version Control"
+        },
+        {
+            "id": 10,
+            "name": "GitHub",
+            "category": "Version Control"
+        },
+        {
+            "id": 11,
+            "name": "Consuming RESTful APIs",
+            "category": "Front-End"
+        },
+        {
+            "id": 12,
+            "name": "NPM",
+            "category": "Package Management"
+        },
+        {
+            "id": 13,
+            "name": "QGIS",
+            "category": "Geospatial"
+        }
+    ]
+}

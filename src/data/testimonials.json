@@ -1,0 +1,32 @@
+{
+    "content": [
+        {
+          "id": 1,
+          "name": "- Jennifer B., Program Manager",
+          "message": "During my time at Promineo Tech, I had the pleasure of working alongside Kristina. She started with us as an exceptional coding mentor. She was highly skilled and sought after by our students, and because of her expertise, Kristina was invited to join the curriculum development team. As a Learning Content Developer, she played a vital role in creating relevant and up-to-date course content improvements. Her contributions were numerous, and ensured our courses were aligned with expected learning outcomes. She never backed down from a challenge, and I watched her learn new skills and programming languages just so she could create the most high-quality original content possible. Furthermore, Kristina's professionalism and organizational skills were always on point! Even under tight deadlines and with frequently changing (sometimes competing) priorities, she remained steadfast and dedicated to her craft - never buckling under pressure - making her an invaluable asset to our team! She was also supportive to her peers and it was a pleasure to work alongside her and I hope I get to work with her again in the future! I'm confident wherever she goes, she will do exceptional work.",
+          "company": "Promineo Tech",
+          "highlight": "...Even under tight deadlines and with frequently changing (sometimes competing) priorities, she remained steadfast and dedicated to her craft - never buckling under pressure - making her an invaluable asset to our team!"
+        },
+        {
+            "id": 2,
+            "name": "- Matthew C., Software Dev",
+            "message": "I had the pleasure of working alongside Kristina Macias for a year and a half, where her role as a Front-End Software Developer, Mentor, and Curriculum Designer immensely contributed to our team's success. Kristina's proficiency in JavaScript, HTML, CSS, React, and Figma was evident in every project she touched. Her ability to create engaging content and instructional videos significantly enhanced our curriculum, making complex concepts accessible and engaging for learners. One of Kristina's most admirable qualities is her determination. She consistently demonstrated a remarkable ability to tackle challenges head-on, displaying not just technical prowess, but a resilience and focus that inspired those around her. As a team player, Kristina was always ready to lend a hand, share insights, and collaborate to achieve the best outcomes. In her role as a mentor, Kristina was exceptional. She devoted considerable time to developing example code projects and conducting workshops, always ensuring that students received the guidance and knowledge they needed to succeed. Her dedication to hosting multiple office hours reflected her commitment to student success and her passion for teaching.Working with Kristina was not just a professional pleasure but also a learning experience. Her approach to problem-solving, team collaboration, and education in software development set a high standard for all. I confidently recommend Kristina to any organization looking for a talented and dedicated front-end developer and educator. She will undoubtedly be an asset, bringing a unique blend of technical skills, creativity, and a team-centric attitude.",
+            "company": "Promineo Tech",
+            "highlight": "...One of Kristina's most admirable qualities is her determination. She consistently demonstrated a remarkable ability to tackle challenges head-on, displaying not just technical prowess, but a resilience and focus that inspired those around her."
+        },
+        {
+            "id": 3,
+            "name": "- Erin B., Instructional Designer",
+            "message": "Kristina is an expert in many things, but the one of the most noteworthy ones is the creativity with which she approaches building software. At Promineo Tech, Kristina served as a JavaScript subject matter expert. My job as an instructional designer was to take Kristina’s expertise and translate it into course content. Kristina would consistently provide multiple ways of using JavaScript to build a piece of software, with pros and cons for each approach. I interview a lot of coding SMEs. Kristina’s subject matter expertise and the versatility of her thinking is stunning. The second reason I want to recommend Kristina is her integrity. We worked on multiple projects together and I was consistently impressed with how she defined success metrics, reported on progress, and held her projects to the highest possible quality. She is the person you want to collaborate with because you know the project with be of the highest quality; you also know that building it together will be fun. Kristina brings innovation, creativity, and integrity to the workplace. Hire her. She is great.",
+            "company": "Promineo Tech",
+            "highlight": "...She is the person you want to collaborate with because you know the project with be of the highest quality; you also know that building it together will be fun. Kristina brings innovation, creativity, and integrity to the workplace. Hire her. She is great."
+        },
+        {
+            "id": 4,
+            "name": "- Lisa S., Software Program Manager & Software Dev",
+            "message": "In Progress",
+            "company": "Promineo Tech",
+            "highlight": "...Kristina is a talented, detail-oriented web developer who looks for better and more optimal ways to reach goals. She asks for and takes feedback well and continues to seek opportunities to learn and grow in her field, which makes her a great fit for any team, especially in a sotware developer role."
+        }
+    ]
+}

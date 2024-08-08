@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Erica+One&family=Knewave&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Erica+One:wght@700&family=Knewave&display=swap');
+
+:root {
+  /* Colors */
+  --platinum: #cfdbd5ff;
+  --alabaster: #e8eddfff;
+  --saffron: #f5cb5cff;
+  --eerie-black: #242423ff;
+  --jet: #333533ff;
+  
+  /* Fonts */
+  --font-erica: 'Erica One', sans-serif;
+  --font-knewave: 'Knewave', cursive;
+  --font-bebas: 'Bebas Neue', sans-serif;
+
+  /* Font Sizes */
+  --font-size-h1: 4rem;
+  --font-size-h2: 3rem;
+  --font-size-h3: 2.5rem;
+  --font-size-h4: 2rem;
+  --font-size-h5: 1.5rem;
+  --font-size-h6: 1.25rem;
+  --font-size-p: 1.25rem;
+  --font-size-blockquote: 1.5rem; /* Add this line for blockquotes */
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: var(--alabaster);
+}
+
+
+/* Base Typography */
+
+/* All Text Styles */
+h1, h2, h3, h4, h5, h6, p, cite {
+  text-transform: uppercase;
+  font-weight: bold; /* Makes the text bold */
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--eerie-black);
+  font-family: var(--font-erica);
+  font-weight: 900;
+  line-height: 0.9;
+  margin-bottom: 0.5em;
+}
+
+h1 {
+  font-size: var(--font-size-h1);
+}
+
+h2 {
+  font-size: var(--font-size-h2);
+}
+
+h3 {
+  font-size: var(--font-size-h3);
+}
+
+h4 {
+  font-size: var(--font-size-h4);
+}
+
+h5 {
+  font-size: var(--font-size-h5);
+}
+
+h6 {
+  font-size: var(--font-size-h6);
+}
+
+p, cite {
+  font-family: var(--font-bebas); 
+  font-size: var(--font-size-p);
+  margin-bottom: 1.1em;
+  font-weight: normal;
+  letter-spacing: 0.1em;
+}
+
+blockquote {
+  border-left: 3.5px solid var(--eerie-black); /* Border style */
+  padding-left: 30px; /* Space between border and text */
+  margin: 20px 0; /* Margin around the blockquote */
+}
+
+/* Section */
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* cemter */
+  text-align: center;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.section > * {
+  flex: 1;
+  padding: 20px;
+}
+
+.section-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Media Queries */
+
+/* Tablets (min-width: 600px) */
+@media (min-width: 600px) {
+
+  :root {
+    --font-size-h1: 4.5rem;
+    --font-size-h2: 3.5rem;
+    --font-size-h3: 3rem;
+    --font-size-h4: 2.5rem;
+    --font-size-h5: 2rem;
+    --font-size-h6: 1.75rem;
+    --font-size-p: 1.5rem;
+    --font-size-blockquote: 1.75rem; /* Adjust for tablets */
+  }
+}
+
+/* Laptops (min-width: 900px) */
+@media (min-width: 900px) {
+  .section {
+    flex-direction: row;
+  }
+
+  .section.reverse {
+    flex-direction: row-reverse;
+  }
+  :root {
+    --font-size-h1: 5rem;
+    --font-size-h2: 4rem;
+    --font-size-h3: 3.5rem;
+    --font-size-h4: 3rem;
+    --font-size-h5: 2.5rem;
+    --font-size-h6: 2rem;
+    --font-size-p: 1.75rem;
+    --font-size-blockquote: 2rem; /* Adjust for laptops */
+  }
+}
+
+/* Desktops (min-width: 1200px) */
+@media (min-width: 1200px) {
+  :root {
+    --font-size-h1: 5.5rem;
+    --font-size-h2: 4.5rem;
+    --font-size-h3: 4rem;
+    --font-size-h4: 3.5rem;
+    --font-size-h5: 3rem;
+    --font-size-h6: 2.5rem;
+    --font-size-p: 2rem;
+    --font-size-blockquote: 2.25rem; /* Adjust for desktops */
+  }
+}
+
+/* Large Desktops (min-width: 1600px) */
+@media (min-width: 1600px) {
+  :root {
+    --font-size-h1: 6rem;
+    --font-size-h2: 5rem;
+    --font-size-h3: 4.5rem;
+    --font-size-h4: 4rem;
+    --font-size-h5: 3.5rem;
+    --font-size-h6: 3rem;
+    --font-size-p: 2.25rem;
+    --font-size-blockquote: 2.5rem; /* Adjust for large desktops */
+  }
+}
